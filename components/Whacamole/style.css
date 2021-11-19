@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(23, 23, 23);
+    color: antiquewhite;
+}
+.content{
+    position: relative;
+    justify-content: center;
+    text-align: center;
+}
+.grid {
+    width: 606px;
+    margin: auto;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    background-color: rgb(2, 10, 64);
+    height: 200px;
+    width: 200px;
+    border:  solid rgb(255, 255, 255) 1px;
+}
+
+.mole{
+    background-color: rgba(9, 9, 245, 0.308);
+}
