@@ -21,6 +21,9 @@ body::before{
     height: 70%;
     background: rgba(0, 0, 0, 0.2);
 }
+.card-title{
+    color: rgb(179, 117, 117);
+}
 /* #loader{
     position: absolute;
     margin: auto;
